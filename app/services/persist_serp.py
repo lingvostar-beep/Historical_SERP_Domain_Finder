@@ -65,8 +65,10 @@ def persist_fetch(
     saved_organics = 0
 
     for snap in fetch.snapshots:
+        # Lookup ONLY within this run — never re-link another run's snapshot.
         existing = db.scalar(
             select(SerpSnapshot).where(
+                SerpSnapshot.run_id == run.id,
                 SerpSnapshot.provider == snap.provider,
                 SerpSnapshot.keyword_id == keyword.id,
                 SerpSnapshot.location_code == query.location_code,
@@ -75,11 +77,12 @@ def persist_fetch(
             )
         )
         if existing:
+            # Idempotent retry / overlapping query in the same run: keep rows + depth.
+            # Do not rewrite run_query_id (avoids moving ownership inside the run too).
             row = existing
-            # Re-link to this query if needed; keep results
-            row.run_query_id = query.id
         else:
             row = SerpSnapshot(
+                run_id=run.id,
                 run_query_id=query.id,
                 keyword_id=keyword.id,
                 location_code=query.location_code,

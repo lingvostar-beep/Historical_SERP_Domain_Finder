@@ -143,18 +143,22 @@ class RunQuery(Base):
 class SerpSnapshot(Base):
     __tablename__ = "serp_snapshots"
     __table_args__ = (
+        # Per-run uniqueness: overlapping runs must not steal each other's snapshots
         UniqueConstraint(
+            "run_id",
             "provider",
             "keyword_id",
             "location_code",
             "language_code",
             "observed_at",
-            name="uq_provider_snapshot",
+            name="uq_run_provider_snapshot",
         ),
         Index("ix_serp_snapshots_observed_month", "observed_month"),
+        Index("ix_serp_snapshots_run_id", "run_id"),
     )
 
     id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)
+    run_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("runs.id", ondelete="CASCADE"), nullable=False)
     run_query_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("run_queries.id", ondelete="CASCADE"))
     keyword_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("keywords.id"))
     location_code: Mapped[int] = mapped_column(Integer, nullable=False)
