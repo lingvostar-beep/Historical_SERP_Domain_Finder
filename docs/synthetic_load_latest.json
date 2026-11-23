@@ -1,0 +1,60 @@
+{
+  "generated_at_utc": "2026-11-23T08:51:12.603238+00:00",
+  "provider_spend_usd": 0,
+  "note": "Synthetic seed — no DataForSEO / WhoisFreaks calls",
+  "seed": {
+    "project_id": "c9f5a284-4b09-400b-8116-cfab71032887",
+    "project_name": "SYNTHETIC_LOAD_TEST_20261123T084703Z",
+    "run_id": "c4c9c94b-0126-4e7a-ba26-c6247f0dedc2",
+    "date_from": "2025-11-01",
+    "date_to": "2026-10-31",
+    "keywords": 500,
+    "locations": 2,
+    "months": 12,
+    "month_list": [
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10"
+    ],
+    "queries": 1000,
+    "snapshots": 12000,
+    "serp_results": 120000,
+    "domain_pool": 5000,
+    "organic_depth": 10,
+    "availability_states": 1000,
+    "insert_seconds": 22.392,
+    "seed_wall_s": 40.254
+  },
+  "benchmark": {
+    "domains_page1_s": 1.706,
+    "domains_total": 5000,
+    "domains_page2_s": 1.213,
+    "domains_page2_items": 50,
+    "domains_last_page": 100,
+    "domains_last_page_s": 1.249,
+    "export_s": 159.048,
+    "export_id": "37d88f65-c9c3-4341-ab09-9799ac0e406d",
+    "export_counts": {
+      "unique_domains": 5000,
+      "unique_list_kind": "registrable_domain",
+      "domain_rows": 5000,
+      "position_rows": 120000,
+      "coverage_rows": 12000
+    },
+    "availability_page1_s": 45.424,
+    "availability_total": 5000,
+    "coverage_matrix_s": 0.1,
+    "coverage_keyword_total": 500,
+    "db_snapshots": 12000,
+    "db_results": 120000
+  }
+}
