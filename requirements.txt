@@ -1,0 +1,15 @@
+# Spike + MVP backend (1a+)
+requests>=2.32.0,<3
+python-dotenv>=1.0.0,<2
+tldextract>=5.1.0,<6
+
+fastapi>=0.115.0,<1
+uvicorn[standard]>=0.32.0,<1
+sqlalchemy>=2.0.36,<3
+psycopg[binary]>=3.2.0,<4
+alembic>=1.14.0,<2
+pydantic>=2.10.0,<3
+pydantic-settings>=2.6.0,<3
+httpx>=0.28.0,<1
+python-multipart>=0.0.12,<1
+pytest>=8.3.0,<9

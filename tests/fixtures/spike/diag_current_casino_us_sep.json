@@ -1,0 +1,48 @@
+{
+  "version": "0.1.20261117",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0719 sec.",
+  "cost": 0,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "11191148-3207-0408-0000-c54c0840297e",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0603 sec.",
+      "cost": 0,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "dataforseo_labs",
+        "google",
+        "historical_serps",
+        "live"
+      ],
+      "data": {
+        "api": "dataforseo_labs",
+        "function": "historical_serps",
+        "se_type": "google",
+        "keyword": "online casino",
+        "location_name": "United States",
+        "language_code": "en",
+        "date_from": "2026-09-01",
+        "date_to": "2026-09-30",
+        "tag": "diag-cur-us"
+      },
+      "result": [
+        {
+          "se_type": "google",
+          "keyword": "online casino",
+          "location_code": 2840,
+          "language_code": "en",
+          "total_count": null,
+          "items_count": 0,
+          "items": null
+        }
+      ]
+    }
+  ]
+}

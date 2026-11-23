@@ -1,0 +1,40 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: hsdf
+      POSTGRES_PASSWORD: hsdf
+      POSTGRES_DB: hsdf
+    ports:
+      - "5433:5432"
+    volumes:
+      - hsdf_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hsdf -d hsdf"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6380:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # App: run uvicorn on host (port 8872) against db/redis below.
+  # Optional containerized API later — do NOT use host port 8870 (plan_board).
+  # api:
+  #   build: .
+  #   env_file: .env
+  #   ports:
+  #     - "8872:8872"
+  #   depends_on:
+  #     db:
+  #       condition: service_healthy
+
+volumes:
+  hsdf_pgdata:

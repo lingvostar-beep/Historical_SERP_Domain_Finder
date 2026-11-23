@@ -1,0 +1,1175 @@
+{
+  "version": "0.1.20261117",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.4102 sec.",
+  "cost": 0.00012,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "11191148-3207-0408-0000-23ca8742ee4b",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.2241 sec.",
+      "cost": 0.00012,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "dataforseo_labs",
+        "google",
+        "historical_serps",
+        "live"
+      ],
+      "data": {
+        "api": "dataforseo_labs",
+        "function": "historical_serps",
+        "se_type": "google",
+        "keyword": "amazon",
+        "location_code": 2036,
+        "language_code": "en",
+        "date_from": "2026-09-01",
+        "date_to": "2026-09-30",
+        "tag": "diag-cur-au"
+      },
+      "result": [
+        {
+          "se_type": "google",
+          "keyword": "amazon",
+          "location_code": 2036,
+          "language_code": "en",
+          "total_count": 1,
+          "items_count": 1,
+          "items": [
+            {
+              "se_type": "google",
+              "keyword": "amazon",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=amazon&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-09-05 01:47:29 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "popular_products",
+                "twitter",
+                "related_searches",
+                "knowledge_graph"
+              ],
+              "se_results_count": 0,
+              "items_count": 10,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "domain": "www.amazon.com.au",
+                  "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys ...",
+                  "url": "https://www.amazon.com.au/",
+                  "breadcrumb": "https://www.amazon.com.au",
+                  "website_name": "Amazon.com.au",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Shop online for Electronics, Computers, Clothing, Shoes, Toys, Books, DVDs, Sporting Goods, Beauty & more.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": null,
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Home Products",
+                      "description": null,
+                      "url": "https://www.amazon.com.au/home-decor-furniture-bedding/b?ie=UTF8&node=4851975051"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Amazon Fashion",
+                      "description": null,
+                      "url": "https://www.amazon.com.au/Amazon-Fashion/b?ie=UTF8&node=4851856051"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Books",
+                      "description": null,
+                      "url": "https://www.amazon.com.au/books-store/b?ie=UTF8&node=4851626051"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Departments",
+                      "description": null,
+                      "url": "https://www.amazon.com.au/b?ie=UTF8&node=8125191051"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Electronics",
+                      "description": null,
+                      "url": "https://www.amazon.com.au/electronics-store/b?ie=UTF8&node=4851799051"
+                    }
+                  ],
+                  "about_this_result": null,
+                  "main_domain": "amazon.com.au",
+                  "relative_url": "/",
+                  "etv": 209032.4055390865,
+                  "estimated_paid_traffic_cost": 14632.268387736056,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 1,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 9896,
+                    "referring_main_domains": 9706,
+                    "referring_pages": 428006,
+                    "dofollow": 416029,
+                    "backlinks": 434380,
+                    "time_update": "2026-09-01 04:13:56 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 588,
+                    "main_domain_rank": 708
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]",
+                  "domain": "www.facebook.com",
+                  "title": "Amazon.com.au (@AmazonAustralia)",
+                  "url": "https://www.facebook.com/AmazonAustralia/",
+                  "breadcrumb": "126.2K+ followers",
+                  "website_name": "Facebook · Amazon.com.au",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Amazon.com.au. 126334 likes · 2653 talking about this. Official Facebook page of Amazon.com.au. We're here to help 24/7.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Amazon.com.au"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "facebook.com",
+                  "relative_url": "/AmazonAustralia/",
+                  "etv": 75579.16482348414,
+                  "estimated_paid_traffic_cost": 5290.5415376438905,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 4,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 21,
+                    "referring_main_domains": 19,
+                    "referring_pages": 1309,
+                    "dofollow": 1305,
+                    "backlinks": 1311,
+                    "time_update": "2026-09-01 04:02:00 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 422,
+                    "main_domain_rank": 1000
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]",
+                  "domain": "www.amazon.com",
+                  "title": "Amazon.com. Spend less. Smile more.",
+                  "url": "https://www.amazon.com/",
+                  "breadcrumb": "https://www.amazon.com",
+                  "website_name": "Amazon.com",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Up to 50% off home & kitchen Shop skincare & more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Free shipping on millions of items"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "amazon.com",
+                  "relative_url": "/",
+                  "etv": 63808.286189212224,
+                  "estimated_paid_traffic_cost": 4466.580033244856,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 2,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": true
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 142570,
+                    "referring_main_domains": 133366,
+                    "referring_pages": 4747742,
+                    "dofollow": 3532257,
+                    "backlinks": 6125061,
+                    "time_update": "2026-09-01 04:18:03 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 853,
+                    "main_domain_rank": 836
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[5]/div[4]/div[1]",
+                  "domain": "x.com",
+                  "title": "Amazon.com.au (@AmazonAustralia) / X",
+                  "url": "https://x.com/AmazonAustralia",
+                  "breadcrumb": "8.7K+ followers",
+                  "website_name": "X · AmazonAustralia",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Shop more than 200 million items ☺️ Free 30-day Amazon Prime trial for new users. Access to deals included with Prime membership ($9.99/month)",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Free 30-day Amazon Prime trial for new users"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "x.com",
+                  "relative_url": "/AmazonAustralia",
+                  "etv": 42214.61252372635,
+                  "estimated_paid_traffic_cost": 2955.0228766608448,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 6,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 3,
+                    "referring_main_domains": 3,
+                    "referring_pages": 4,
+                    "dofollow": 3,
+                    "backlinks": 4,
+                    "time_update": "2026-09-01 04:55:43 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 99,
+                    "main_domain_rank": 884
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[7]/div[2]/div[1]",
+                  "domain": "www.instagram.com",
+                  "title": "Amazon.com.au (@amazonaustralia)",
+                  "url": "https://www.instagram.com/amazonaustralia/?hl=en",
+                  "breadcrumb": "121.6K+ followers",
+                  "website_name": "Instagram · amazonaustralia",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Shop more than 200 million items 📦✨ Free 30-day Amazon Prime trial for new users. Our 100% recyclable cardboard boxes and paper mailers",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Free 30-day Amazon Prime trial for new users"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "instagram.com",
+                  "relative_url": "/amazonaustralia/?hl=en",
+                  "etv": 30265.4568125348,
+                  "estimated_paid_traffic_cost": 2118.5819768774363,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 3,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": true
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 3,
+                    "referring_main_domains": 3,
+                    "referring_pages": 3,
+                    "dofollow": 3,
+                    "backlinks": 3,
+                    "time_update": "2026-09-01 04:58:45 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 64,
+                    "main_domain_rank": 1000
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "popular_products",
+                  "rank_group": 1,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]",
+                  "items": [
+                    {
+                      "type": "popular_products_element",
+                      "title": "INIU Power Bank Smallest 20000mAh 22.5W Fast Charging Portable Charger",
+                      "description": null,
+                      "price": {
+                        "current": 39.91,
+                        "regular": 50,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$39.91 $50"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.9,
+                        "votes_count": 395,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Australia Fan Pack Bundle – Australian Flag Backpack, Bucket Hat, Flag Glasses, Temporary Tattoos & Bracelet With Flag Charm, Sports Fans, Australia",
+                      "description": null,
+                      "price": {
+                        "current": 29.95,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$29.95"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "OMIPAWZ Ocean Wave Lamp, 16 Colors RGB Aurora Northern Light Projector Lamp | Night Light for Bedroom Living Room Decor",
+                      "description": null,
+                      "price": {
+                        "current": 19.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$19.99"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon Fire TV Stick HD",
+                      "description": null,
+                      "price": {
+                        "current": 82.28,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$82.28"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.8,
+                        "votes_count": 53,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "PROIRON Neoprene Dumbbell Weights Pair for Women 1kg 1.5kg 2kg 3kg 4kg 5kg 6kg 7kg 8kg 10kg",
+                      "description": null,
+                      "price": {
+                        "current": 36.79,
+                        "regular": 46,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$36.79 $46"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.7,
+                        "votes_count": 143,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "64GB Frameo 15.6\" WiFi Digital Photo Frame, FHD Touchscreen Picture Frame | 1920×1080P IPS Display, Instant Photo & Video Sharing, Auto Rotate, Wall",
+                      "description": null,
+                      "price": {
+                        "current": 149.96,
+                        "regular": 200,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$149.96 $200"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.9,
+                        "votes_count": 12,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon by DK",
+                      "description": null,
+                      "price": {
+                        "current": 20.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$20.99"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "100Pcs Australian Stickers, Waterproof Vinyl, Animals & Landmarks Decals | 2026 Australian Animals & Landmarks Cute Decals | Souvenir Gifts, for",
+                      "description": null,
+                      "price": {
+                        "current": 11.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$11.99"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon",
+                      "description": null,
+                      "price": {
+                        "current": 46.49,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$46.49"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.9,
+                        "votes_count": 23,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Gaiam Relax Massage Ball Roller Handheld Wooden Total Body Massager for Back",
+                      "description": null,
+                      "price": {
+                        "current": 28,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$28.00"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 5,
+                        "votes_count": 4,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon Echo",
+                      "description": null,
+                      "price": {
+                        "current": 21.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$21.99"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "MYTOAU 4 Pack Reusable Foldable Waterproof Eco-Friendly Grocery Tote Bags | Waterproof Washable Heavy Duty Grocery Bags Lightweight Portable for",
+                      "description": null,
+                      "price": {
+                        "current": 12.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$12.99"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon ()",
+                      "description": null,
+                      "price": {
+                        "current": 206.8,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$206.80"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Ajax Multipurpose, Antibacterial Disinfectant Surface Cleaning Wipes, Bulk 330 Pack, Vanilla & Berries",
+                      "description": null,
+                      "price": {
+                        "current": 16.5,
+                        "regular": 33,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$16.50 $33"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.7,
+                        "votes_count": 164,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon cadeaubon",
+                      "description": null,
+                      "price": {
+                        "current": 83.92,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$83.92"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.8,
+                        "votes_count": 1200,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "AMAZON Gift Card",
+                      "description": null,
+                      "price": {
+                        "current": 109.53,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$109.53"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.9,
+                        "votes_count": 22,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Feel good 20 cartes à colorier",
+                      "description": null,
+                      "price": {
+                        "current": 24.52,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$24.52"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon Gift Card EUR de",
+                      "description": null,
+                      "price": {
+                        "current": 95.08,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$95.08"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.5,
+                        "votes_count": 84,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Amazon Essentials Men's Straight-Fit Wrinkle-Resistant Flat-Front Chino Pant",
+                      "description": null,
+                      "price": {
+                        "current": 43.9,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$43.90"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.7,
+                        "votes_count": 3,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "Only the Words of Jesus: Verbatim from the Four Gospels (KJV)",
+                      "description": null,
+                      "price": {
+                        "current": 6.73,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$6.73"
+                      },
+                      "rating": null
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "The Pink Stuff Miracle Toilet Cleaner 750ml 12PK",
+                      "description": null,
+                      "price": {
+                        "current": 6.99,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$6.99"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.4,
+                        "votes_count": 1600,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "The Book of Astrology by Marion Williamson",
+                      "description": null,
+                      "price": {
+                        "current": 10.99,
+                        "regular": null,
+                        "max_value": 44,
+                        "currency": "AUD",
+                        "is_price_range": true,
+                        "displayed_price": "$10.99 Usually $44"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.5,
+                        "votes_count": 6,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "NEW Amazonia Raw Protein Isolate Choc Coconut, Natural Plant-Based Protein Powder – Certified Organic, Fermented, Low FODMAP, Gluten-Free, Vegan,",
+                      "description": null,
+                      "price": {
+                        "current": 120,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$120.00"
+                      },
+                      "rating": {
+                        "rating_type": "Max5",
+                        "value": 4.6,
+                        "votes_count": 349,
+                        "rating_max": 5
+                      }
+                    },
+                    {
+                      "type": "popular_products_element",
+                      "title": "L'EXTRAordinaire Apothicaire T01",
+                      "description": null,
+                      "price": {
+                        "current": 26.7,
+                        "regular": null,
+                        "max_value": null,
+                        "currency": "AUD",
+                        "is_price_range": false,
+                        "displayed_price": "$26.70"
+                      },
+                      "rating": null
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "twitter",
+                  "rank_group": 1,
+                  "rank_absolute": 7,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[11]/div[1]",
+                  "title": "Latest posts from Amazon",
+                  "url": null,
+                  "items": [
+                    {
+                      "type": "twitter_element",
+                      "tweet": "BIG NEWS from @awscloud and @nvidia 🤝\n\nWe're announcing a major expansion of our strategic collaboration for next-gen AI infrastructure. ⬇️\n\nBuilding on 16 years of joint innovation, AWS will deploy 2 million additional NVIDIA GPUs across its global infrastructure in 2027–2028—and that's just the start. The two companies are deepening their work together across AI factories, CPUs, networking, open models, data processing, and robotics.\n\nThis expansion gives customers even more ways to build and deploy AI at scale. 940+ likes · 1 week ago",
+                      "date": "1 week ago",
+                      "timestamp": "2026-08-29 01:47:28 +00:00",
+                      "url": "https://x.com/amazon/status/2092722318451806230?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
+                    },
+                    {
+                      "type": "twitter_element",
+                      "tweet": "x.com/i/article/2090015… 230+ likes · 2 weeks ago",
+                      "date": "2 weeks ago",
+                      "timestamp": "2026-08-22 01:47:28 +00:00",
+                      "url": "https://x.com/amazon/status/2090017668904398888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
+                    },
+                    {
+                      "type": "twitter_element",
+                      "tweet": "Amazon's drones are reinventing what fast means. Here's an inside look at the future of delivery. ⚡\n\nNearly all items 5 pounds or less that fit in a large shoebox can be delivered ultrafast by drone—we're talking snacks, headphones, last-minute gifts, and more. Our drones use onboard cameras and sensors for navigation, obstacle detection, and safe delivery. Oh, and they're fully electric and can fly in light rain and a range of temperatures. ⬇️ 140+ likes · 3 weeks ago",
+                      "date": "3 weeks ago",
+                      "timestamp": "2026-08-15 01:47:28 +00:00",
+                      "url": "https://x.com/amazon/status/2087918389146587552?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
+                    },
+                    {
+                      "type": "twitter_element",
+                      "tweet": "Before it ever ships, Amazon packaging gets dropped, shaken, squeezed, and slammed in a lab designed to push it to the limit. ⬇️ \n\nBehind the scenes at Amazon's Packaging Innovation Lab, durability tests help us make sure reduced packaging, easier to recycle materials, and sometimes even the product’s own packaging can protect products during shipping.\n\n✅ Drop tests simulate the bumps of transit\n✅ Vibration tables replicate the rumble of road and air transport\n✅ Compression machines mimic stacking in a truck \n\nThe result is less material, less waste, and packaging built to go the distance. 100+ likes · 3 weeks ago",
+                      "date": "3 weeks ago",
+                      "timestamp": "2026-08-15 01:47:28 +00:00",
+                      "url": "https://x.com/amazon/status/2087200404022989148?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
+                    },
+                    {
+                      "type": "twitter_element",
+                      "tweet": "Matt Wood spent nearly 15 years helping build @awscloud AI—including Amazon SageMaker and Amazon Bedrock. Now, he's back as AWS Chief AI and Technology Officer.\n\n@SwamiSivasubram caught up with him to talk tokens, agents, @amazonquick, and the state of AI. See how it went. ⬇️ 60+ likes · 1 month ago",
+                      "date": "1 month ago",
+                      "timestamp": "2026-08-05 01:47:28 +00:00",
+                      "url": "https://x.com/amazon/status/2085027831797420332?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 6,
+                  "rank_absolute": 8,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[13]/div[1]/div[1]",
+                  "domain": "www.aboutamazon.com.au",
+                  "title": "Amazon: Who we are - About Amazon ...",
+                  "url": "https://www.aboutamazon.com.au/about-us",
+                  "breadcrumb": "https://www.aboutamazon.com.au › about-us",
+                  "website_name": "About Amazon Australia",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Amazon strives to be Earth's Most Customer-Centric Company, Earth's Best Employer, and Earth's Safest Place to Work. Customer reviews, 1-Click shopping,",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Amazon"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "aboutamazon.com.au",
+                  "relative_url": "/about-us",
+                  "etv": 22274.707730056958,
+                  "estimated_paid_traffic_cost": 1559.2295411039872,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 21,
+                    "referring_main_domains": 20,
+                    "referring_pages": 27,
+                    "dofollow": 26,
+                    "backlinks": 30,
+                    "time_update": "2026-09-01 04:49:34 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 339,
+                    "main_domain_rank": 473
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 9,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "amazon usa",
+                    "amazon shopping",
+                    "www amazon com au login",
+                    "amazon us store",
+                    "amazon com au shopping",
+                    "amazon open",
+                    "amazon australia login and password",
+                    "amazon app"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "knowledge_graph",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "right",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]",
+                  "title": "Amazon.com",
+                  "sub_title": null,
+                  "description": null,
+                  "card_id": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:15",
+                  "logo_url": null,
+                  "cid": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                      "link": null,
+                      "items": [
+                        {
+                          "type": "knowledge_graph_images_element",
+                          "url": null,
+                          "domain": null,
+                          "alt": "Image of Amazon.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:4",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_images_element",
+                          "url": null,
+                          "domain": null,
+                          "alt": "Image of Amazon.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:5",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_images_element",
+                          "url": null,
+                          "domain": null,
+                          "alt": "Image of Amazon.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:6",
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                      "title": "Headquarters",
+                      "data_attrid": "kc:/organization/organization:headquarters",
+                      "text": "Headquarters : Seattle, Washington, United States",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Seattle, Washington, United States",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Seattle&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuZ77b5x4AjgvC1ScQ-xNr-unnNBpuYoIekIxrDrYdxaIfB_fVi-_WSwac-N-1DNlE5rYuxZDSe6E7OJCc05OmLynZCgqQFNKNH83sCBjmXMFLorSrIB_pgC6pzB5gUKYbpXRvzBqrEf3LImyZs4fqsNNShk&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAgvEAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "title": "CEO",
+                      "data_attrid": "kc:/organization/organization:ceo",
+                      "text": "CEO : Andy Jassy (5 July 2021–)",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Andy Jassy",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Andy+Jassy&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0Yook4shKEJ2Dp4bfq8PJSFamZ4ZOxvPlcbQRGLyiMiEte99_fBw5X7G8QMQUGCvyIVJYLFijJqSq62xpKzuDne3SDIvEKTRPlKqN6Yr9L_kYAydQKEOdX9cnbJgSVAUiIM8edyK2fwCipIhfqrI-1aANrabE17H1mfUnkfyF65yoOZWAw%3D%3D&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAguEAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+                      "title": "Founder",
+                      "data_attrid": "kc:/business/business_operation:founder",
+                      "text": "Founder : Jeff Bezos",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Jeff Bezos",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Jeff+Bezos&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySTRlRlasYw7cO_lrLPS66KCdT701PXMT3XeB3bSUmICy_zUZClvvnOcSxHpnd5HK66UaHdM-2V3k-XgJmKhLdfnEsMJPbw1ViXeAimaH1yPcww2nezoyiRm0ulesN0LuUzrrSiJz905MGviRa52sNvhVYy_&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAg1EAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+                      "title": "CFO",
+                      "data_attrid": "kc:/organization/organization:cfo",
+                      "text": "CFO : Brian T. Olsavsky",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Brian T. Olsavsky",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Brian+T.+Olsavsky&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fM5VVyo-nBzjspW1VrHg7iOL-oLDeNSwQSKFuSdPHv0PW3OvE1VH-ue79m1sEoIy2T8TbAV0T1ionWFNVFnqiWSAY2_LcIifo6ewJGNIL49Pg-oCqAjVXbPj5IEblLO6rzrPVgOwa3s9sOw7Vb0xwWUZ_lrKPjo9RAlSu9yN2bIiF1_bw%3D%3D&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAg0EAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]",
+                      "title": "CTO",
+                      "data_attrid": "kc:/organization/organization:cto",
+                      "text": "CTO : Werner Vogels",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Werner Vogels",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Werner+Vogels&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671BGe9AC4gHZ8HTcMkOgrZuqxw45pVp_jaST32cTnevO2rERsoCFfQfs94WldL6xhru4Z35mIMEzt8tVdpETz6Uq9riGAoEEQCLAGJ8uCJdapoDSVQn6rlQ9S_AGpz3EYQdYZYaIRx89EeapZBE4fg3PCNZj&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAgyEAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]",
+                      "title": "President",
+                      "data_attrid": "kc:/organization/organization:president",
+                      "text": "President : Andy Jassy",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Andy Jassy",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Andy+Jassy&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0Yook4shKEJ2Dp4bfq8PJSFamZ4ZOxvPlcbQRGLyiMiEte99_fBw5X7G8QMQUGCvyIVJYLFijJqSq62xpKzuDne3SDIvEKTRPlKqN6Yr9L_kYAydQKEOdX9cnbJgSVAUiIM8edyK2fwCipIhfqrI-1aANrabE17H1mfUnkfyF65yoOZWAw%3D%3D&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAgxEAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_row_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]",
+                      "title": "Founded",
+                      "data_attrid": "kc:/organization/organization:founded",
+                      "text": "Founded : 5 July 1994, Bellevue, Washington, United States",
+                      "links": [
+                        {
+                          "type": "link_element",
+                          "title": "Bellevue, Washington, United States",
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&q=Bellevue,+Washington&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yaYvgzOPG0Jgi-LYVZrbIlU-UEOIv6ipMGvwkn9LIo71bI9EVBCcX97USGt1dIpLMNsSJrfPTn5r0ySWrvMx-z4VuB7NVRjit6atGS1YbfSMIOc4shxmxkoeM7C0x5Ms6t986HiE-9JkUnM3JcMxd7iyktBqgT9jml-VQTkb18wo6K2NSw%3D%3D&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQmxN6BAgtEAI",
+                          "domain": "www.google.com",
+                          "snippet": null,
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                      "title": "Profiles",
+                      "data_attrid": "kc:/common/topic:social media presence",
+                      "link": null,
+                      "items": [
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "YouTube",
+                          "subtitle": null,
+                          "url": "https://www.youtube.com/user/amazon",
+                          "domain": "www.youtube.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:7",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "LinkedIn",
+                          "subtitle": null,
+                          "url": "https://www.linkedin.com/company/amazon",
+                          "domain": "www.linkedin.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:8",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "Facebook",
+                          "subtitle": null,
+                          "url": "https://www.facebook.com/Amazon",
+                          "domain": "www.facebook.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:9",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "X (Twitter)",
+                          "subtitle": null,
+                          "url": "https://twitter.com/amazon",
+                          "domain": "twitter.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:10",
+                          "xpath": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_item",
+                      "rank_group": 0,
+                      "rank_absolute": 0,
+                      "position": "left",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[6]/div[1]/div[1]",
+                      "title": "People also search for",
+                      "data_attrid": null,
+                      "link": null,
+                      "items": [
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "Amazon Prime Video",
+                          "subtitle": null,
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yd9SHhv2Bpnk2jvveoUupz3UenR9WcAW9kejZ1pJGNqBLlQVS3E_ZOW64CvjyfVlZJlaYPF7Wio1RpN_y3uLd8a9hCuqfsXjBFWHd7qshl6XbDrNyaFuMk3gmfA3JoYXjx3aOtk98kpKAQipYlA4j7dOx-yX&q=Prime+Video&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQs9oBKAB6BAgqEAY",
+                          "domain": "www.google.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:11",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "eBay",
+                          "subtitle": null,
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpqIqTUg_pxp827mTaVJ4y-f9wKLX7vEMhVqNWZV0HuVpkszkstdcjrn3E2b1PUeRWHe8-cSu2icrD5FQA_xivMHMK8BxAwzasDXBs1AlQmNSTyZb1NcFERYYT6j9Xvt6JsQQo8fRU7CCe5KK9A0f5vd7BGpW&q=eBay&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQs9oBKAB6BAgqEAo",
+                          "domain": "www.google.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:12",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "Bandcamp",
+                          "subtitle": null,
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67yEoatUJ8r_I3itimcjT5TXw5ZzWuqg3KpBWfzYlMt8hUMcQ9Os5BoWQjbkd1Yf7Ahpy1_QHHRGyjopZ_SnALIjeH48_oSfztqdVHgrxKPB5bsAdBm4o_0SFdMNA7KR36QqphZ6I3taKI1gPWKrC2XXO1BJ7&q=Bandcamp&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQs9oBKAB6BAgqEA4",
+                          "domain": "www.google.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:13",
+                          "xpath": null
+                        },
+                        {
+                          "type": "knowledge_graph_carousel_element",
+                          "title": "Zalando",
+                          "subtitle": null,
+                          "url": "https://www.google.com/search?sca_esv=414f7827edae3c64&hl=en&gl=AU&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-2x8rTmVF0p-vCWVtpG2MUqyTJtFXSBCIN_qFDXcuLpi8C3eXORVwy8nBUsazvs2n2es1CnMBotsWGssXUNqSzINXWLJH_10stRysMJJG21LHuIdLxFJ1SCQ1p7_L43QKvmoHqHiUDedqKHlXf0zNx3vq6U&q=Zalando&sa=X&ved=2ahUKEwjF14iKqdaWAxWVRKQEHezKMcUQs9oBKAB6BAgqEBI",
+                          "domain": "www.google.com",
+                          "image_url": "https://api.dataforseo.com/cdn/i/09050147-1087-0066-0000-fb1b10bc4ecc:14",
+                          "xpath": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

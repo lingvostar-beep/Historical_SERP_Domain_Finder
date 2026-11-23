@@ -1,0 +1,60 @@
+{
+  "_comment": "Normalized view produced by parse_historical_response + PSL parse_result_url",
+  "provider": "dataforseo_google_current",
+  "cost_usd": "0.00012",
+  "task_status_code": 20000,
+  "snapshots": [
+    {
+      "observed_at": "2026-09-05T01:47:29+00:00",
+      "observed_month": "2026-09",
+      "organic_count": 6,
+      "organic_items_sample": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "url": "https://www.amazon.com.au/",
+          "hostname": "www.amazon.com.au",
+          "registrable_domain": "amazon.com.au",
+          "subdomain": "www",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys ..."
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 2,
+          "url": "https://www.facebook.com/AmazonAustralia/",
+          "hostname": "www.facebook.com",
+          "registrable_domain": "facebook.com",
+          "subdomain": "www",
+          "title": "Amazon.com.au (@AmazonAustralia)"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 3,
+          "url": "https://www.amazon.com/",
+          "hostname": "www.amazon.com",
+          "registrable_domain": "amazon.com",
+          "subdomain": "www",
+          "title": "Amazon.com. Spend less. Smile more."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 4,
+          "url": "https://x.com/AmazonAustralia",
+          "hostname": "x.com",
+          "registrable_domain": "x.com",
+          "subdomain": null,
+          "title": "Amazon.com.au (@AmazonAustralia) / X"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 5,
+          "url": "https://www.instagram.com/amazonaustralia/?hl=en",
+          "hostname": "www.instagram.com",
+          "registrable_domain": "instagram.com",
+          "subdomain": "www",
+          "title": "Amazon.com.au (@amazonaustralia)"
+        }
+      ]
+    }
+  ]
+}

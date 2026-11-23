@@ -1,0 +1,115 @@
+{
+  "generated_at_utc": "2026-11-20T09:53:25.893569+00:00",
+  "verdict": "PASS",
+  "project_id": "b7cd66dc-a0a2-4ad2-8944-0a7361b49818",
+  "run_id": "ff629033-e40d-43a0-9547-94cdd2cfe18d",
+  "job_id": "0f40ef5c-bb94-44e4-81ec-75370f7b4f3c",
+  "steps": [
+    {
+      "step": "health",
+      "status": "PASS",
+      "detail": {
+        "ok": true,
+        "version": "0.1.0",
+        "env": "vps",
+        "serp_primary": "dataforseo_google_current",
+        "max_history_days": 365
+      }
+    },
+    {
+      "step": "project_setup",
+      "status": "PASS",
+      "detail": {
+        "project_id": "b7cd66dc-a0a2-4ad2-8944-0a7361b49818",
+        "keywords": {
+          "loaded": 1,
+          "unique": 1,
+          "duplicates_removed": 0,
+          "invalid": 0,
+          "linked_to_project": 1,
+          "invalid_samples": []
+        }
+      }
+    },
+    {
+      "step": "serp_run",
+      "status": "PASS",
+      "detail": {
+        "run_id": "ff629033-e40d-43a0-9547-94cdd2cfe18d",
+        "snapshots": 1,
+        "spent_usd": "0.000120"
+      }
+    },
+    {
+      "step": "unique_domains",
+      "status": "PASS",
+      "detail": {
+        "total": 6,
+        "sample": [
+          "aboutamazon.com.au",
+          "amazon.com",
+          "amazon.com.au",
+          "facebook.com",
+          "instagram.com"
+        ]
+      }
+    },
+    {
+      "step": "availability_batch",
+      "status": "PASS",
+      "detail": {
+        "job_id": "0f40ef5c-bb94-44e4-81ec-75370f7b4f3c",
+        "spent_credits": 6,
+        "spent_usd": "0.024000",
+        "items_by_status": {
+          "COMPLETED": 6
+        }
+      }
+    },
+    {
+      "step": "available_filter",
+      "status": "PASS",
+      "detail": {
+        "all_rows": 6,
+        "available_only_rows": 0,
+        "available_statuses": [
+          "AVAILABLE_CONFIRMED",
+          "AVAILABLE_PRELIMINARY"
+        ],
+        "warning": "Available statuses are preliminary and may change; TLD eligibility is separate.",
+        "sample_available": []
+      }
+    },
+    {
+      "step": "exports",
+      "status": "PASS",
+      "detail": {
+        "serp_export_id": "356f4c73-58d1-45fc-8aa6-2bf5e29184d2",
+        "serp_files": [
+          "coverage.csv",
+          "domains_summary.csv",
+          "positions_detailed.csv",
+          "run_metadata.json",
+          "unique_domains.txt"
+        ],
+        "availability_export_id": "11005a0b-b179-4618-9729-3ef331e789ab",
+        "availability_files": [
+          "availability_metadata.json",
+          "available_domains.txt",
+          "domain_availability.csv"
+        ],
+        "available_domains_txt_lines": 0,
+        "available_domains_sample": [],
+        "export_counts": {
+          "available": 0,
+          "rows": 6
+        }
+      }
+    }
+  ],
+  "costs": {
+    "dataforseo_usd": "0.000120",
+    "whoisfreaks_credits": 6,
+    "whoisfreaks_usd_ref": "0.024000"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "generated_at_utc": "2026-11-19T11:47:32.475280+00:00",
+  "keyword": "online casino",
+  "dataforseo": [
+    {
+      "provider": "dataforseo",
+      "label": "legacy|AU|2022-05",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2022-05-01",
+        "date_to": "2022-05-31",
+        "tag": "spike-legacy-au-2022-05"
+      },
+      "http_status": 200,
+      "latency_ms": 515,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0380-0000-dfd009038c89",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'date_from'.",
+            "cost": 0,
+            "result_count": 0,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-legacy-au-2022-05_20261119T114727Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "legacy|AU|2023-05",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2023-05-01",
+        "date_to": "2023-05-31",
+        "tag": "spike-legacy-au-2023-05"
+      },
+      "http_status": 200,
+      "latency_ms": 442,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0380-0000-87771fea7a2d",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'date_from'.",
+            "cost": 0,
+            "result_count": 0,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-legacy-au-2023-05_20261119T114728Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "legacy|AU|2024-05",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2024-05-01",
+        "date_to": "2024-05-31",
+        "tag": "spike-legacy-au-2024-05"
+      },
+      "http_status": 200,
+      "latency_ms": 581,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0380-0000-e4de5b04a929",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'date_from'.",
+            "cost": 0,
+            "result_count": 0,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-legacy-au-2024-05_20261119T114728Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "legacy|AU|recent_le365",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2026-10-01",
+        "date_to": "2026-10-31",
+        "tag": "spike-legacy-au-recent_le365"
+      },
+      "http_status": 200,
+      "latency_ms": 537,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0380-0000-2d73ac2c13ef",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "cost": 0,
+            "result_count": 1,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-legacy-au-recent_le365_20261119T114729Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "current|AU|recent_le365",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/google/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2026-10-01",
+        "date_to": "2026-10-31",
+        "tag": "spike-current-au-recent_le365"
+      },
+      "http_status": 200,
+      "latency_ms": 631,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0408-0000-808a980fcfc6",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "cost": 0,
+            "result_count": 1,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-current-au-recent_le365_20261119T114730Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "legacy|UK|2023-05",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "United Kingdom",
+        "language_code": "en",
+        "date_from": "2023-05-01",
+        "date_to": "2023-05-31",
+        "tag": "spike-legacy-uk-2023-05"
+      },
+      "http_status": 200,
+      "latency_ms": 381,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0380-0000-bba69c784d70",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'date_from'.",
+            "cost": 0,
+            "result_count": 0,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-legacy-uk-2023-05_20261119T114730Z.json"
+    },
+    {
+      "provider": "dataforseo",
+      "label": "current|AU|2022-05(expect_gap)",
+      "endpoint": "https://api.dataforseo.com/v3/dataforseo_labs/google/historical_serps/live",
+      "request": {
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "date_from": "2022-05-01",
+        "date_to": "2022-05-31",
+        "tag": "spike-current-au-2022-05"
+      },
+      "http_status": 200,
+      "latency_ms": 510,
+      "error": null,
+      "summary": {
+        "top_status_code": 20000,
+        "top_status_message": "Ok.",
+        "top_cost": 0,
+        "tasks_count": 1,
+        "tasks": [
+          {
+            "id": "11191147-3207-0408-0000-cdf9c078cb17",
+            "status_code": 40501,
+            "status_message": "Invalid Field: 'date_from'.",
+            "cost": 0,
+            "result_count": 0,
+            "snapshots": []
+          }
+        ],
+        "snapshot_datetimes": [],
+        "snapshot_count": 0,
+        "organic_total_across_snapshots": 0
+      },
+      "raw_saved_as": "raw_dfs_spike-current-au-2022-05_20261119T114730Z.json"
+    }
+  ],
+  "whoisfreaks": {
+    "provider": "whoisfreaks",
+    "endpoint_redacted": "https://api.whoisfreaks.com/v2.0/domain/availability?apiKey=***",
+    "domains": [
+      "example.com",
+      "google.com",
+      "example.com.au",
+      "hsdf-spike-1795088850.com",
+      "this-tld-should-fail.invalidtld"
+    ],
+    "http_status": 206,
+    "latency_ms": 1506,
+    "error": null,
+    "summary": {
+      "top_keys": [
+        "bulk_domain_availability_response"
+      ],
+      "results": [
+        {
+          "domain": "google.com",
+          "availability": "UNAVAILABLE",
+          "keys": [
+            "availability",
+            "domain",
+            "status"
+          ]
+        },
+        {
+          "domain": "hsdf-spike-1795088850.com",
+          "availability": "AVAILABLE",
+          "keys": [
+            "availability",
+            "domain",
+            "status"
+          ]
+        },
+        {
+          "domain": "this-tld-should-fail.invalidtld",
+          "availability": "UNKNOWN",
+          "keys": [
+            "availability",
+            "domain",
+            "status"
+          ]
+        },
+        {
+          "domain": "example.com.au",
+          "availability": "UNAVAILABLE",
+          "keys": [
+            "availability",
+            "domain",
+            "status"
+          ]
+        },
+        {
+          "domain": "example.com",
+          "availability": "UNAVAILABLE",
+          "keys": [
+            "availability",
+            "domain",
+            "status"
+          ]
+        }
+      ],
+      "note": "Exact status enums to be frozen from this live response."
+    },
+    "raw_saved_as": "raw_whoisfreaks_20261119T114732Z.json"
+  },
+  "godaddy": {
+    "skipped": true,
+    "reason": "GODADDY_PAT empty or --skip-godaddy"
+  },
+  "notes": ""
+}

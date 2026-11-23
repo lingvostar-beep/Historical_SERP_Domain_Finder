@@ -1,0 +1,41 @@
+{
+  "_comment": "Mapped to TZ §15.6 internal statuses",
+  "provider": "whoisfreaks",
+  "items": [
+    {
+      "registrable_domain": "google.com",
+      "provider_raw_availability": "UNAVAILABLE",
+      "internal_status": "TAKEN",
+      "provider_row_ok": true,
+      "eligibility_note": "REQUIRES_EVIDENCE if suffix com.au/net.au (separate from registration status)"
+    },
+    {
+      "registrable_domain": "hsdf-spike-1795088850.com",
+      "provider_raw_availability": "AVAILABLE",
+      "internal_status": "AVAILABLE_PRELIMINARY",
+      "provider_row_ok": true,
+      "eligibility_note": "REQUIRES_EVIDENCE if suffix com.au/net.au (separate from registration status)"
+    },
+    {
+      "registrable_domain": "this-tld-should-fail.invalidtld",
+      "provider_raw_availability": "UNKNOWN",
+      "internal_status": "UNKNOWN",
+      "provider_row_ok": false,
+      "eligibility_note": "REQUIRES_EVIDENCE if suffix com.au/net.au (separate from registration status)"
+    },
+    {
+      "registrable_domain": "example.com.au",
+      "provider_raw_availability": "UNAVAILABLE",
+      "internal_status": "TAKEN",
+      "provider_row_ok": true,
+      "eligibility_note": "REQUIRES_EVIDENCE if suffix com.au/net.au (separate from registration status)"
+    },
+    {
+      "registrable_domain": "example.com",
+      "provider_raw_availability": "UNAVAILABLE",
+      "internal_status": "TAKEN",
+      "provider_row_ok": true,
+      "eligibility_note": "REQUIRES_EVIDENCE if suffix com.au/net.au (separate from registration status)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "Excerpt from Spike diag_current_amazon_au_sep.json — no credentials",
+  "status_code": 20000,
+  "cost": 0.00012,
+  "tasks": [
+    {
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "result": [
+        {
+          "items": [
+            {
+              "datetime": "2026-09-05 01:47:29 +00:00",
+              "items": [
+                {
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "url": "https://www.amazon.com.au/",
+                  "domain": "www.amazon.com.au",
+                  "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

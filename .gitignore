@@ -1,0 +1,43 @@
+# Secrets
+.env
+.env.*
+!.env.example
+deploy/vps_bootstrap_credentials.txt
+deploy/*credentials*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Spike outputs (may contain account-specific cost data; keep local)
+spike/results/*
+!spike/results/.gitkeep
+
+# Runtime data
+data/raw/
+data/cache/
+data/exports/
+!data/cache/.gitkeep
+!data/raw/.gitkeep
+
+# DB dumps (may contain production SERP/domain data)
+backups/
+*.dump
+*.sql.gz
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store

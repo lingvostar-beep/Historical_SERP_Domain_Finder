@@ -1,0 +1,65 @@
+{
+  "documented_at_utc": "2026-11-20T09:48:00+00:00",
+  "reference_rates": {
+    "dataforseo_usd_per_returned_snapshot": 0.00012,
+    "whoisfreaks_credits_per_domain": 1,
+    "whoisfreaks_reference_usd_per_credit": 0.004,
+    "notes": [
+      "Empty months and task 40501 bill 0 on DataForSEO for these probes.",
+      "WhoisFreaks ref USD is config amortization, not package sticker price.",
+      "GoDaddy Confirm not billed (deferred / 501 stub)."
+    ]
+  },
+  "canonical_test_task": {
+    "name": "pilot_au_uk_wide",
+    "date": "2026-11-20",
+    "run_id": "b6073180-4cda-4221-abd3-eff822f69497",
+    "availability_job_id": "235f2365-8bdd-4dad-b057-8257192b3b00",
+    "scope": {
+      "keywords": ["amazon", "online casino"],
+      "locations": [
+        {"location_code": 2036, "name": "Australia", "language": "en"},
+        {"location_code": 2826, "name": "United Kingdom", "language": "en"}
+      ],
+      "date_from": "2025-11-20",
+      "date_to": "2026-09-30",
+      "depth": 20,
+      "availability": {"mode": "max_n", "max_n": 25, "force_refresh": true}
+    },
+    "dataforseo": {
+      "spent_usd": "0.003120",
+      "snapshots_saved": 26,
+      "queries_completed": 4,
+      "estimate_usd": "0.005280"
+    },
+    "whoisfreaks": {
+      "spent_credits": 25,
+      "spent_usd_reference": "0.100000"
+    },
+    "total_usd_reference": "0.103120",
+    "evidence": [
+      "docs/pilot_au_uk_latest.md",
+      "docs/pilot_au_uk_latest.json"
+    ]
+  },
+  "other_runs": [
+    {
+      "name": "pilot_au_uk_sep_narrow",
+      "run_id": "8ed96215-5ac1-405b-8e84-d8626c234c67",
+      "dataforseo_spent_usd": "0.000120",
+      "whoisfreaks_spent_credits": 0,
+      "note": "UK Sep NO_SNAPSHOT; WF cached"
+    },
+    {
+      "name": "e2e_au_amazon_casino_sep",
+      "dataforseo_spent_usd": "0.000120",
+      "whoisfreaks_spent_credits": 6,
+      "note": "scripts/e2e_vps_pilot.py"
+    }
+  ],
+  "spike_reference_samples": [
+    {"label": "current amazon AU Sep", "cost_usd": 0.00012, "snapshots": 1},
+    {"label": "current online casino AU nodate", "cost_usd": 0.00072, "snapshots": 6},
+    {"label": "legacy AU 2022-05", "cost_usd": 0, "task_status": 40501}
+  ]
+}

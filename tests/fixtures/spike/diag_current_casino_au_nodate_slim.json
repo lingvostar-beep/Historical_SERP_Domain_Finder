@@ -1,0 +1,2525 @@
+{
+  "version": "0.1.20261117",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1488 sec.",
+  "cost": 0.00072,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "11191149-3207-0408-0000-6d17b4fb3b4d",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.1304 sec.",
+      "cost": 0.00072,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "dataforseo_labs",
+        "google",
+        "historical_serps",
+        "live"
+      ],
+      "data": {
+        "api": "dataforseo_labs",
+        "function": "historical_serps",
+        "se_type": "google",
+        "keyword": "online casino",
+        "location_name": "Australia",
+        "language_code": "en",
+        "tag": "diag-cur-oc-au-nodate"
+      },
+      "result": [
+        {
+          "se_type": "google",
+          "keyword": "online casino",
+          "location_code": 2036,
+          "language_code": "en",
+          "total_count": 6,
+          "items_count": 6,
+          "items": [
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2025-11-29 12:28:48 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 983000000,
+              "items_count": 111,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Which online casino is best in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Best Online Casino in Australia 2025",
+                          "url": "https://www.sunflowerartstudios.community/",
+                          "domain": "www.sunflowerartstudios.community",
+                          "title": "Online Casino Australia - Best Australian online casinos 2025",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the #1 real money online casino?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.freep.com/story/sports/best-online-casinos/86800526007/",
+                          "domain": "www.freep.com",
+                          "title": "Best online casinos in the U.S. that pay real money (November 2025)",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Is online gambling illegal in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.gamblinghelponline.org.au/support-yourself-or-others/understanding-gambling/online-gambling?language_content_entity=en",
+                          "domain": "www.gamblinghelponline.org.au",
+                          "title": "How does online gambling work?",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Can you play casino games online for real money in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.pokerology.com/au/online-casinos/",
+                          "domain": "www.pokerology.com",
+                          "title": "20 Best Online Casinos in Australia for Real Money",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "real money online casino in australia",
+                    "777 bet online casino",
+                    "australian online casino payid",
+                    "casino online casinotrustindex com au",
+                    "online casino australia legal",
+                    "best online casino australia real money",
+                    "australia online casino",
+                    "online casino game"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Real money online casino in Australia",
+                    "777 bet online casino",
+                    "Australian online casino PayID",
+                    "Casino online casinotrustindex com au",
+                    "Online casino Australia legal",
+                    "Best online casino Australia real money",
+                    "Australia online casino",
+                    "Online casino game"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "domain": "www.australianonlinecasinos.co.com",
+                  "title": "Best Online Casinos for Online Pokies Australia 2025",
+                  "url": "https://www.australianonlinecasinos.co.com/",
+                  "breadcrumb": "https://www.australianonlinecasinos.co.com",
+                  "website_name": "Australian Online Casinos",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "The best online casinos Australia has to offer right now ! Here at todaytonight, we play-test each casino, checking bonuses, game variety, mobile performance, ...",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "The best online casinos Australia has to offer right now"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "australianonlinecasinos.co.com",
+                  "relative_url": "/",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1,
+                    "referring_main_domains": 1,
+                    "referring_pages": 1,
+                    "dofollow": 1,
+                    "backlinks": 1,
+                    "time_update": "2025-11-27 23:17:04 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 529,
+                    "main_domain_rank": 384
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "thesunpapers.com",
+                  "title": "Best Online Casinos Australia Sites of 2025",
+                  "url": "https://thesunpapers.com/au/online-casinos/",
+                  "breadcrumb": "https://thesunpapers.com › The Jersey Gypsy",
+                  "website_name": "Thesunpapers",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "If only more businesses would give daily cashback! Thousands of real money casino games, With 3,500+ Australian online casino games, I never ran out of options.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Thousands of real money casino games"
+                  ],
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "My Verdict: Comparing the...",
+                      "description": null,
+                      "url": "https://thesunpapers.com/au/online-casinos/#i_scroll_3"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Safest Online Casino Sites in...",
+                      "description": null,
+                      "url": "https://thesunpapers.com/au/online-casinos/#i_scroll_6"
+                    }
+                  ],
+                  "about_this_result": null,
+                  "main_domain": "thesunpapers.com",
+                  "relative_url": "/au/online-casinos/",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 9,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 2843,
+                    "referring_main_domains": 2802,
+                    "referring_pages": 9549,
+                    "dofollow": 719,
+                    "backlinks": 10331,
+                    "time_update": "2025-09-25 20:01:27 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 257,
+                    "main_domain_rank": 464
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                  "domain": "royalreels-casino-official-au.com",
+                  "title": "Royal Reels 18 - Online Casino Australia | Official Website ...",
+                  "url": "https://royalreels-casino-official-au.com/en-au/",
+                  "breadcrumb": "https://royalreels-casino-official-au.com › en-au",
+                  "website_name": "royalreels-casino-official-au.com",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Royal Reels Australia caters to every taste and skill level. The mirror sites, Royal Reels 18 and Royal Reels 17, ensure uninterrupted access, ...",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Royal Reels Australia caters to every taste and skill level"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "royalreels-casino-official-au.com",
+                  "relative_url": "/en-au/",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1,
+                    "referring_main_domains": 1,
+                    "referring_pages": 1,
+                    "dofollow": 1,
+                    "backlinks": 1,
+                    "time_update": "2025-11-27 02:21:42 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 145,
+                    "main_domain_rank": 77
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                  "domain": "australianonlinecasinos.us.org",
+                  "title": "Best Online Casinos in Australia 2025 - Top Real Money Sites",
+                  "url": "https://australianonlinecasinos.us.org/",
+                  "breadcrumb": "https://australianonlinecasinos.us.org",
+                  "website_name": "us.org",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Find the best online casinos in Australia for 2025 here and play safely at licensed sites offering fast AUD payouts, huge bonuses & real-money pokies.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best online casinos in Australia for 2025"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "australianonlinecasinos.us.org",
+                  "relative_url": "/",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 329
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                  "domain": "rizk.com",
+                  "title": "Rizk Online Casino | 100% Bonus up to €100 + 100 Free Spins",
+                  "url": "https://rizk.com/en",
+                  "breadcrumb": "https://rizk.com › ...",
+                  "website_name": "Rizk",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Welcome to Rizk. Discover our collection of top casino games, sports bets, card games and more. Safe & Secure Online Casino. Get your Welcome Bonus.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Safe & Secure Online Casino"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "rizk.com",
+                  "relative_url": "/en",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 4,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": true
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1149,
+                    "referring_main_domains": 1137,
+                    "referring_pages": 4055,
+                    "dofollow": 2074,
+                    "backlinks": 4104,
+                    "time_update": "2025-09-25 22:15:08 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 328,
+                    "main_domain_rank": 302
+                  }
+                }
+              ],
+              "items_count_original_organics": 100
+            },
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-01-10 01:48:32 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 897000000,
+              "items_count": 111,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Which online casino is best in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Best Australia Online Casinos for Pokies Reviewed",
+                          "url": "https://nokyconlinecasinosaustralia.cn.com/best/",
+                          "domain": "nokyconlinecasinosaustralia.cn.com",
+                          "title": "Top Online Casinos Australia 2026 - Best Sites for Online Pokies",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the most legit online casino?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "What Are the Top 10 Online Casinos in the USA Right Now?",
+                          "url": "https://esportsinsider.com/us/gambling/best-online-casinos-usa",
+                          "domain": "esportsinsider.com",
+                          "title": "Best Online Casinos for Real Money in the USA 2026 - Esports Insider",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Casino (Rating)",
+                              "Games"
+                            ],
+                            "table_content": [
+                              [
+                                "TheOnlineCasino (5.0)",
+                                "600+"
+                              ],
+                              [
+                                "Wild Casino (4.9)",
+                                "1,600+"
+                              ],
+                              [
+                                "CoinPoker (4.8)",
+                                "2,000+"
+                              ],
+                              [
+                                "Captain Jack (4.7)",
+                                "200+"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Can you play real money pokies online in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://adventurefree.com.au/",
+                          "domain": "adventurefree.com.au",
+                          "title": "Best Online Casinos in Australia 2026 | Pokies & Fast Withdrawals",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What online casino actually pays?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Best payout online casinos for 2026",
+                          "url": "https://www.al.com/casinos/best-payouts/",
+                          "domain": "www.al.com",
+                          "title": "Here are the fastest payout online casinos we recommend - AL.com",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Online casino",
+                              "Best paying games"
+                            ],
+                            "table_content": [
+                              [
+                                "betPARX",
+                                "Highest paying slot: Blood Suckers (98%% RTP) Highest paying table game: Blackjack (99% RTP)"
+                              ],
+                              [
+                                "Horseshoe Online Casino",
+                                "Highest paying slot: Blood Suckers (98.00% RTP) Highest paying table game: Blackjack With Surrender (99.71% RTP)"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "real money online casino in australia",
+                    "top 10 online casino australia real money",
+                    "best real money online casino in australia",
+                    "real money online casino in australia no deposit bonus",
+                    "pokies online casino",
+                    "australian online casino payid",
+                    "best new online casino australia",
+                    "online casino australia real money easy withdrawal"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Real money online casino in Australia",
+                    "Top 10 online casino Australia real money",
+                    "Best real money online casino in Australia",
+                    "Real money online casino in Australia no deposit bonus",
+                    "Pokies online casino",
+                    "Australian online casino PayID",
+                    "Best new online casino Australia",
+                    "Online casino Australia real money easy withdrawal"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "domain": "www.australian-casinos-online.co.com",
+                  "title": "Instant Payout Casinos in Australia [January - 2026]: The Best ...",
+                  "url": "https://www.australian-casinos-online.co.com/",
+                  "breadcrumb": "https://www.australian-casinos-online.co.com",
+                  "website_name": "Cuisine On Bowen",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "We provide accurate and unbiased information to help you choose the best online casino for fast withdrawals. We will also explain how instant withdrawal ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best online casino for fast withdrawals"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "australian-casinos-online.co.com",
+                  "relative_url": "/",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "domain": "www.onlinecasinosaustralialist.eu.com",
+                  "title": "Best Australia Online Casinos - Real Money AU Casino Sites ...",
+                  "url": "https://www.onlinecasinosaustralialist.eu.com/best/",
+                  "breadcrumb": "https://www.onlinecasinosaustralialist.eu.com › best",
+                  "website_name": "Australian Online Casinos",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Find the top Australia online casinos for real money in 2026. Our expert reviews of Australian gambling sites provide everything you need.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "the top Australia online casinos for real money in 2026"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "onlinecasinosaustralialist.eu.com",
+                  "relative_url": "/best/",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "thesunpapers.com",
+                  "title": "20 Best Online Casinos for Real Money in Australia",
+                  "url": "https://thesunpapers.com/au/online-casinos/",
+                  "breadcrumb": "https://thesunpapers.com › The Jersey Gypsy",
+                  "website_name": "Thesunpapers",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "If only more businesses would give daily cashback! Thousands of real money casino games, With 3,500+ Australian online casino games, I never ran out of options. Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Thousands of real money casino games"
+                  ],
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "My Final Comparison – Three...",
+                      "description": null,
+                      "url": "https://thesunpapers.com/au/online-casinos/#i_scroll_5"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Best Australian Online Casino...",
+                      "description": null,
+                      "url": "https://thesunpapers.com/au/online-casinos/#i_scroll_10"
+                    }
+                  ],
+                  "about_this_result": null,
+                  "main_domain": "thesunpapers.com",
+                  "relative_url": "/au/online-casinos/",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 3,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 2699,
+                    "referring_main_domains": 2672,
+                    "referring_pages": 8534,
+                    "dofollow": 731,
+                    "backlinks": 9300,
+                    "time_update": "2026-01-06 11:52:39 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 268,
+                    "main_domain_rank": 464
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                  "domain": "www.888casino.com",
+                  "title": "888 Casino: Online Casino | Play Casino Online Games",
+                  "url": "https://www.888casino.com/",
+                  "breadcrumb": "https://www.888casino.com",
+                  "website_name": "888 Casino",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "At 888casino you're spoilt for choice with a huge variety of casino games. We offer our players an extensive range of over 1500+ exciting online slots, ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "huge variety of casino games"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "888casino.com",
+                  "relative_url": "/",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 8,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 7259,
+                    "referring_main_domains": 6892,
+                    "referring_pages": 46266,
+                    "dofollow": 18859,
+                    "backlinks": 53839,
+                    "time_update": "2026-01-06 13:18:44 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 509,
+                    "main_domain_rank": 499
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                  "domain": "royalreels19official.com",
+                  "title": "Royal Reels 18 - Online Casino Australia | Official Website ...",
+                  "url": "https://royalreels19official.com/en-au/",
+                  "breadcrumb": "https://royalreels19official.com › en-au",
+                  "website_name": "royalreels19official.com",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Launched in 2021 and continuously upgraded, Royal Reels Casino offers more than 3,000 top-tier games, instant PayID deposits starting at just $10, and ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Royal Reels Casino"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "royalreels19official.com",
+                  "relative_url": "/en-au/",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                }
+              ],
+              "items_count_original_organics": 100
+            },
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-02-21 13:36:56 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 542000000,
+              "items_count": 111,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 10,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the most trusted online casino in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://thesunpapers.com/au/online-casinos/",
+                          "domain": "thesunpapers.com",
+                          "title": "Best Online Casinos Australia in February 2026 | Real Money",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the most legit online casino?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Online Gambling Real Money: Top 5 Casinos & Their Standout Features – I Tested",
+                          "url": "https://sandiegobeer.news/i-tested-15-real-money-online-casinos-in-2026-only-these-5-online-casinos-paid-fast-before-my-beer-went-warm/",
+                          "domain": "sandiegobeer.news",
+                          "title": "Only These 5 Online Casinos Paid Fast Before My Beer Went Warm",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Real Money Casinos",
+                              "Top Features",
+                              "Ratings"
+                            ],
+                            "table_content": [
+                              [
+                                "BetWhale",
+                                "Best Casino Site with Premium Sportsbook",
+                                "4.8/5"
+                              ],
+                              [
+                                "Thunderpick",
+                                "Huge Esports Tournaments Among Popular Online Casinos",
+                                "4.7/5"
+                              ],
+                              [
+                                "Bets.io",
+                                "Wide Betting Options and Game Collections",
+                                "4.7/5"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Is there an online casino that you can win real money?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://batman-news.com/",
+                          "domain": "batman-news.com",
+                          "title": "Best Online Casino for Real Money & Top Offshore Casinos 2026",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "real money online casino in australia",
+                    "best real money online casino in australia",
+                    "pokies online casino",
+                    "best new online casino australia",
+                    "top 10 online casino australia real money",
+                    "real money online casino in australia no deposit bonus",
+                    "pokies online casino real money",
+                    "royal reels online casino"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Real money online casino in Australia",
+                    "Pokies online casino",
+                    "Best real money online casino in Australia",
+                    "Best new online casino Australia",
+                    "Top 10 online casino Australia real money",
+                    "Real money online casino in Australia no deposit bonus",
+                    "Pokies online casino real money",
+                    "Royal Reels online casino"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "domain": "australian-top1-casinoss.co.com",
+                  "title": "Treat Dreams - Dreamy Good Treats",
+                  "url": "https://australian-top1-casinoss.co.com/",
+                  "breadcrumb": "https://australian-top1-casinoss.co.com",
+                  "website_name": "TOP 10 Online Casino Australia Real Money",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Best online casinos Australia 2026. Licensed real money casino sites with up to $30000 bonuses, instant PayID withdrawals & 2000+ pokies.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Licensed real money casino sites"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "australian-top1-casinoss.co.com",
+                  "relative_url": "/",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "domain": "royalreels18casinoaus.net",
+                  "title": "Royal Reels 18 - Online Casino Australia | Official Website ...",
+                  "url": "https://royalreels18casinoaus.net/en-au/",
+                  "breadcrumb": "https://royalreels18casinoaus.net › en-au",
+                  "website_name": "royalreels18casinoaus.net",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Royal Reels Australia caters to every taste and skill level. The mirror sites, Royal Reels 18 and Royal Reels 17, ensure uninterrupted access, ...",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Royal Reels Australia caters to every taste and skill level"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "royalreels18casinoaus.net",
+                  "relative_url": "/en-au/",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "best-casinos-australia.pegasussaddlery.com.au",
+                  "title": "Pegasus Saddlery",
+                  "url": "https://best-casinos-australia.pegasussaddlery.com.au/",
+                  "breadcrumb": "https://best-casinos-australia.pegasussaddlery.com.au",
+                  "website_name": "pegasussaddlery.com.au",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Regular online casino — payouts can take 2 to 5 business days or more. ... Like any casino, online casinos with fast payouts have their pros and cons. Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "payouts can take 2 to 5 business days or more"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "pegasussaddlery.com.au",
+                  "relative_url": "/",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                  "domain": "australianonlinecasinosites.it.com",
+                  "title": "Best Online Casinos in Australia 2026 | Pokies & Fast ...",
+                  "url": "https://australianonlinecasinosites.it.com/best/",
+                  "breadcrumb": "https://australianonlinecasinosites.it.com › best",
+                  "website_name": "it.com",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Discover top-rated online casinos for Australians. Play online pokies with instant withdrawals. Compare new casinos, bonuses & PayID payments.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Play online pokies with instant withdrawals"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "australianonlinecasinosites.it.com",
+                  "relative_url": "/best/",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                  "domain": "www.pokerstars.com",
+                  "title": "Online Casino Games",
+                  "url": "https://www.pokerstars.com/casino/",
+                  "breadcrumb": "https://www.pokerstars.com › casino",
+                  "website_name": "PokerStars",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Play with PokerStars – a trusted brand for 20+ years. Enjoy Slots, Blackjack, Roulette and Live Dealer tables.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Play with PokerStars"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "pokerstars.com",
+                  "relative_url": "/casino/",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 8,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 3227,
+                    "referring_main_domains": 3099,
+                    "referring_pages": 23540,
+                    "dofollow": 4934,
+                    "backlinks": 29571,
+                    "time_update": "2026-02-03 16:49:16 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 517,
+                    "main_domain_rank": 559
+                  }
+                }
+              ],
+              "items_count_original_organics": 100
+            },
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-04-04 06:36:54 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 69,
+              "items_count": 57,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Which is the best legit online casino?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Which top online casino is the best for you?",
+                          "url": "https://www.sportsline.com/casinos/",
+                          "domain": "www.sportsline.com",
+                          "title": "Best online casinos for real money: Picking the top online casino for 2026",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Top Online Casinos",
+                              "Best Online Casino For",
+                              "States"
+                            ],
+                            "table_content": [
+                              [
+                                "DraftKings",
+                                "Table game players, blackjack lovers",
+                                "MI/NJ/PA/WV"
+                              ],
+                              [
+                                "Caesars Palace",
+                                "VIP players, promo seekers",
+                                "MI/NJ/PA/WV"
+                              ],
+                              [
+                                "Fanatics",
+                                "Rewards players, loyalty program users",
+                                "MI/NJ/PA/WV"
+                              ],
+                              [
+                                "Golden Nugget",
+                                "Live dealer fans, real-table action",
+                                "MI/NJ/PA/WV"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Does Australia have legal online casinos?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.gambleaware.nsw.gov.au/learn-about-gambling/how-gambling-works/online-gambling",
+                          "domain": "www.gambleaware.nsw.gov.au",
+                          "title": "Online Gambling in Australia | Legal, Illegal & Risks Explained",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What gambling websites work in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Top 5 Snapshot: Australian Casino Comparison in 2026",
+                          "url": "https://bestaussieonlinecasinos.cn.com/",
+                          "domain": "bestaussieonlinecasinos.cn.com",
+                          "title": "Top Online Casinos Australia 2026 - Best Sites for Online Pokies",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Casino",
+                              "Welcome Bonus"
+                            ],
+                            "table_content": [
+                              [
+                                "Vegas Now",
+                                "Welcome Bonus Up to $8000 + 500 Free Spins"
+                              ],
+                              [
+                                "Lucky Ones",
+                                "Welcome Bonus Up To $20,000 + 500 free spins"
+                              ],
+                              [
+                                "Bet Ninja",
+                                "$2,500 Bonus for New Players + 100 Free Spins"
+                              ],
+                              [
+                                "Just Casino",
+                                "Welcome Bonus Up To $5,000 + 400 free spins"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What online casino pays out the most in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Best Payout Online Casinos In Australia",
+                          "url": "https://sites.topausonlinecasinos.net/top-sites/",
+                          "domain": "sites.topausonlinecasinos.net",
+                          "title": "Best Online Casinos Australia 2026 - Top 10 Aussie Payout ...",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Casino",
+                              "Avg. RTP",
+                              "Top Title RTP"
+                            ],
+                            "table_content": [
+                              [
+                                "VegasNow",
+                                "96%+",
+                                "98.00%"
+                              ],
+                              [
+                                "LuckyDreams",
+                                "96%+",
+                                "97.87%"
+                              ],
+                              [
+                                "CoinCasino",
+                                "Provably fair",
+                                "97.00%"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "best new online casino australia",
+                    "best australian online casino instant withdrawal",
+                    "online casino payid withdrawal australia",
+                    "online casino australia legal",
+                    "lucky ones online casino",
+                    "pokies online australia login",
+                    "online casino instant payout australia real money",
+                    "online pokies qld real money"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Best new online casino Australia",
+                    "Best Australian online casino instant withdrawal",
+                    "Online casino PayID withdrawal Australia",
+                    "Online casino Australia legal",
+                    "Lucky Ones online casino",
+                    "Pokies online Australia login",
+                    "Online casino instant payout Australia real money",
+                    "Online pokies qld real money"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "domain": "sites.topausonlinecasinos.net",
+                  "title": "Best Online Casinos Australia 2026 - Top 10 Aussie Payout ...",
+                  "url": "https://sites.topausonlinecasinos.net/top-sites/",
+                  "breadcrumb": "https://sites.topausonlinecasinos.net › top-sites",
+                  "website_name": "topausonlinecasinos.net",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Explore the best online casinos Australia offers in 2026, featuring top online pokies, instant withdrawals, and the latest new casino sites.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best online casinos Australia offers in 2026"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "topausonlinecasinos.net",
+                  "relative_url": "/top-sites/",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "domain": "new.bestpayingonlinecasinosaus.net",
+                  "title": "Best Online Casinos Australia 2026 | Online Pokies & Fast ...",
+                  "url": "https://new.bestpayingonlinecasinosaus.net/",
+                  "breadcrumb": "https://new.bestpayingonlinecasinosaus.net",
+                  "website_name": "bestpayingonlinecasinosaus.net",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Explore the best online casinos in Australia 2026. Compare new sites, top online pokies & instant withdrawal casinos for real-money play.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Explore the best online casinos in Australia 2026"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "bestpayingonlinecasinosaus.net",
+                  "relative_url": "/",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": null,
+                  "rank_info": {
+                    "page_rank": 0,
+                    "main_domain_rank": 0
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "www.acma.gov.au",
+                  "title": "Check if a gambling operator is legal",
+                  "url": "https://www.acma.gov.au/check-if-gambling-operator-legal",
+                  "breadcrumb": "https://www.acma.gov.au › check-if-gambling-operator...",
+                  "website_name": "ACMA",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Make sure it is legal. It must be on the register of licensed interactive gambling providers to operate in Australia. Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "gambling"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "acma.gov.au",
+                  "relative_url": "/check-if-gambling-operator-legal",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1069,
+                    "referring_main_domains": 986,
+                    "referring_pages": 1655,
+                    "dofollow": 393,
+                    "backlinks": 1720,
+                    "time_update": "2026-03-31 03:47:52 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 363,
+                    "main_domain_rank": 554
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                  "domain": "www.pokerstars.com",
+                  "title": "Online Casino | Play Real Money Games at PokerStars",
+                  "url": "https://www.pokerstars.com/casino/",
+                  "breadcrumb": "https://www.pokerstars.com › casino",
+                  "website_name": "PokerStars",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "PokerStars Casino offers a wealth of different online casino games. Available both via desktop and via a mobile app, players can choose to play slot games, ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "PokerStars Casino"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "pokerstars.com",
+                  "relative_url": "/casino/",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 5,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 2491,
+                    "referring_main_domains": 2384,
+                    "referring_pages": 18776,
+                    "dofollow": 4224,
+                    "backlinks": 23888,
+                    "time_update": "2026-03-31 04:08:57 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 511,
+                    "main_domain_rank": 557
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                  "domain": "www.gamblinginsider.com",
+                  "title": "Best Australian Online Casinos for Real Money in 2026",
+                  "url": "https://www.gamblinginsider.com/au/online-casinos",
+                  "breadcrumb": "https://www.gamblinginsider.com › Casino",
+                  "website_name": "Gambling Insider",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "8 days ago — Find the best Australia online casinos with more games, bigger bonuses, and faster payments. Use our insider tips to choose top casinos in ...",
+                  "pre_snippet": "8 days ago",
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best Australia online casinos"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "gamblinginsider.com",
+                  "relative_url": "/au/online-casinos",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 11,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 193,
+                    "referring_main_domains": 131,
+                    "referring_pages": 24735,
+                    "dofollow": 24613,
+                    "backlinks": 24735,
+                    "time_update": "2026-03-31 03:31:04 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 392,
+                    "main_domain_rank": 415
+                  }
+                }
+              ],
+              "items_count_original_organics": 50
+            },
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-05-17 22:19:03 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 46,
+              "items_count": 45,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the most trusted online casino in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://thesunpapers.com/au/online-casinos/",
+                          "domain": "thesunpapers.com",
+                          "title": "Best Online Casinos Australia 2026: Top Aussie Casino Sites",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What's the best online casino for real money?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Best US online casinos reviewed in May 2026",
+                          "url": "https://www.legalsportsreport.com/online-casinos/",
+                          "domain": "www.legalsportsreport.com",
+                          "title": "Best Online Casinos for Real Money in May 2026 - LegalSportsReport",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Where is the best PayID withdrawal pokies in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://muddyrivernews.com/igaming-hub/top-5-best-payid-casinos-in-australia-trusted-payid-pokies-sites-for-fast-withdrawals-no-delays/20260514073000/",
+                          "domain": "muddyrivernews.com",
+                          "title": "Top 5 Best PayID Casinos in Australia - Muddy River News",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Can Australians play online casinos?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.vgccc.vic.gov.au/for-community/how-gambling-works/understand-gambling",
+                          "domain": "www.vgccc.vic.gov.au",
+                          "title": "Your rights when gambling | vgccc.vic.gov.au",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "real money online casino in australia",
+                    "best real money online casino in australia",
+                    "top 10 online casino australia real money",
+                    "best new online casino australia",
+                    "australia online casino",
+                    "online casino australia no deposit bonus",
+                    "online casino australia real money easy withdrawal",
+                    "best australian online casino instant withdrawal"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Real money online casino in Australia",
+                    "Best real money online casino in Australia",
+                    "Top 10 online casino Australia real money",
+                    "Best new online casino Australia",
+                    "Australia online casino",
+                    "Online casino Australia no deposit bonus",
+                    "Online casino Australia real money easy withdrawal",
+                    "Best Australian online casino instant withdrawal"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "domain": "www.gameshub.com",
+                  "title": "Best Online Casinos Australia in 2026",
+                  "url": "https://www.gameshub.com/australia/online-casinos/",
+                  "breadcrumb": "https://www.gameshub.com › Australia",
+                  "website_name": "GamesHub",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "7 hours ago — Discover the best online casinos in Australia for pokies and table games based on trust, game selection, banking options, and fair gaming.",
+                  "pre_snippet": "7 hours ago",
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best online casinos in Australia"
+                  ],
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Find the Best Online Casino in...",
+                      "description": null,
+                      "url": "https://www.gameshub.com/australia/online-casinos/#Find_the_Best_Online_Casino_in_Australia_For_You"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Most Popular Online Casino...",
+                      "description": null,
+                      "url": "https://www.gameshub.com/australia/online-casinos/#Most_Popular_Online_Casino_Games_in_Australia"
+                    }
+                  ],
+                  "about_this_result": null,
+                  "main_domain": "gameshub.com",
+                  "relative_url": "/australia/online-casinos/",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 7234,
+                    "referring_main_domains": 7002,
+                    "referring_pages": 433821,
+                    "dofollow": 432809,
+                    "backlinks": 815950,
+                    "time_update": "2026-05-11 05:46:11 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 561,
+                    "main_domain_rank": 515
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "domain": "www.gambleaware.nsw.gov.au",
+                  "title": "Online gambling - Gamble Aware - NSW Government",
+                  "url": "https://www.gambleaware.nsw.gov.au/learn-about-gambling/how-gambling-works/online-gambling",
+                  "breadcrumb": "https://www.gambleaware.nsw.gov.au › online-gambling",
+                  "website_name": "NSW Government",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Not all online gambling sites are legal in Australia and some are unsafe. Using illegal sites means you have no consumer protection and that puts you at serious ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Not all online gambling sites are legal in Australia"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "nsw.gov.au",
+                  "relative_url": "/learn-about-gambling/how-gambling-works/online-gambling",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 9,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1005,
+                    "referring_main_domains": 855,
+                    "referring_pages": 1502,
+                    "dofollow": 242,
+                    "backlinks": 1504,
+                    "time_update": "2026-05-11 06:49:33 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 346,
+                    "main_domain_rank": 622
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "www.gamblinginsider.com",
+                  "title": "Best Australian Online Casinos for Real Money in 2026",
+                  "url": "https://www.gamblinginsider.com/au/online-casinos",
+                  "breadcrumb": "https://www.gamblinginsider.com › Casino",
+                  "website_name": "Gambling Insider",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "7 May 2026 — The best Australian online casinos combine strong security, reliable banking options, worthwhile bonuses, and a broad range of pokies. Read more",
+                  "pre_snippet": "05/07/2026 00:00:00",
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "online"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "gamblinginsider.com",
+                  "relative_url": "/au/online-casinos",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 5,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 314,
+                    "referring_main_domains": 251,
+                    "referring_pages": 41831,
+                    "dofollow": 41708,
+                    "backlinks": 42922,
+                    "time_update": "2026-05-11 06:25:23 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 388,
+                    "main_domain_rank": 427
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                  "domain": "www.acma.gov.au",
+                  "title": "Online gambling services",
+                  "url": "https://www.acma.gov.au/online-gambling-services",
+                  "breadcrumb": "https://www.acma.gov.au › online-gambling-services",
+                  "website_name": "ACMA",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "It's important to protect the community from illegal betting and gaming services provided online. Understand what is and isn't allowed and who can help if you ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "illegal betting and gaming services provided online"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "acma.gov.au",
+                  "relative_url": "/online-gambling-services",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 960,
+                    "referring_main_domains": 874,
+                    "referring_pages": 1605,
+                    "dofollow": 451,
+                    "backlinks": 1740,
+                    "time_update": "2026-05-11 04:41:09 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 297,
+                    "main_domain_rank": 554
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                  "domain": "au.trustpilot.com",
+                  "title": "Best in Online Casino or Bookmaker Australia",
+                  "url": "https://au.trustpilot.com/categories/online_casino_or_bookmaker",
+                  "breadcrumb": "https://au.trustpilot.com › ... › Gambling",
+                  "website_name": "Trustpilot",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Find and compare the best companies in Online Casino or Bookmaker on Trustpilot, and add your own experience.",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best companies in Online Casino or Bookmaker on Trustpilot"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "trustpilot.com",
+                  "relative_url": "/categories/online_casino_or_bookmaker",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 15,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 29,
+                    "referring_main_domains": 28,
+                    "referring_pages": 161,
+                    "dofollow": 131,
+                    "backlinks": 164,
+                    "time_update": "2026-05-11 06:21:02 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 212,
+                    "main_domain_rank": 803
+                  }
+                }
+              ],
+              "items_count_original_organics": 40
+            },
+            {
+              "se_type": "google",
+              "keyword": "online casino",
+              "type": "organic",
+              "se_domain": "google.com",
+              "location_code": 2036,
+              "language_code": "en",
+              "check_url": "https://www.google.com/search?q=online%20casino&hl=en&gl=AU&ie=UTF-8&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+              "datetime": "2026-08-10 07:13:18 +00:00",
+              "spell": null,
+              "item_types": [
+                "organic",
+                "people_also_ask",
+                "related_searches"
+              ],
+              "se_results_count": 85,
+              "items_count": 31,
+              "items": [
+                {
+                  "se_type": "google",
+                  "type": "people_also_ask",
+                  "rank_group": 1,
+                  "rank_absolute": 5,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What is the best online casino in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Top Aussie Online Casinos - Tested & Ranked",
+                          "url": "https://au.trustpilot.com/review/aussie-online.casino",
+                          "domain": "au.trustpilot.com",
+                          "title": "Top 10 Aussie Online Casinos for Real Money in 2026 Reviews",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "What's the best online casino for real money?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Key takeaways for best real money online casinos in August 2026",
+                          "url": "https://www.legalsportsreport.com/online-casinos/",
+                          "domain": "www.legalsportsreport.com",
+                          "title": "Best Online Casinos for Real Money in August 2026 - LegalSportsReport",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Online Casino",
+                              "Rank",
+                              "Bonus Offer"
+                            ],
+                            "table_content": [
+                              [
+                                "BetMGM Casino",
+                                "#1",
+                                "Up to $2,550 in total Bonuses"
+                              ],
+                              [
+                                "DraftKings Casino",
+                                "#3",
+                                "1,000 Flex Spins*"
+                              ],
+                              [
+                                "Bally Casino",
+                                "#4",
+                                "Up to $100 Reload Bonus if down after seven days."
+                              ],
+                              [
+                                "FanDuel Casino",
+                                "#5",
+                                "500 Bonus Spins and $50 in Casino Bonus"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Is online casino legit in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": null,
+                          "url": "https://www.lexology.com/library/detail.aspx?g=72fbcfb0-c125-4987-bf82-2293e14b9a5c",
+                          "domain": "www.lexology.com",
+                          "title": "Are Online Casinos Legal in Australia? - Lexology",
+                          "description": null,
+                          "timestamp": null,
+                          "table": null
+                        }
+                      ]
+                    },
+                    {
+                      "type": "people_also_ask_element",
+                      "title": "Which online casino pays out instantly in Australia?",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                      "expanded_element": [
+                        {
+                          "type": "people_also_ask_expanded_element",
+                          "featured_title": "Fast Payout Casinos in Australia – Quick Comparison",
+                          "url": "https://esports.gg/au/guides/betting/instant-withdrawal-casinos/",
+                          "domain": "esports.gg",
+                          "title": "Fast Payout Online Casinos Australia for Instant Withdrawals 2026",
+                          "description": null,
+                          "timestamp": null,
+                          "table": {
+                            "table_header": [
+                              "Casino",
+                              "Payout Speed"
+                            ],
+                            "table_content": [
+                              [
+                                "Skycrown",
+                                "Under 15 minutes with crypto"
+                              ],
+                              [
+                                "Casinonic",
+                                "30-60 minutes with crypto; under four hours with MiFinity"
+                              ],
+                              [
+                                "Kingmaker",
+                                "Instant or near-instant with selected methods"
+                              ],
+                              [
+                                "MrPacho",
+                                "Instant with most supported crypto methods"
+                              ]
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 1,
+                  "rank_absolute": 12,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "online casino real money",
+                    "online casino no deposit bonus",
+                    "online casino aus",
+                    "best australian online casino instant withdrawal",
+                    "online casino australia legal",
+                    "best online casino australia 2026",
+                    "top 10 online casino australia real money",
+                    "international online casino real money"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "related_searches",
+                  "rank_group": 2,
+                  "rank_absolute": 23,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "items": [
+                    "Online casino real money",
+                    "Online casino no deposit bonus",
+                    "Online casino AUS",
+                    "Best Australian online casino instant withdrawal",
+                    "Online casino Australia legal",
+                    "Best online casino Australia 2026",
+                    "Top 10 online casino Australia real money",
+                    "International online casino real money"
+                  ]
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 1,
+                  "rank_absolute": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "domain": "au.trustpilot.com",
+                  "title": "Top 10 Aussie Online Casinos for Real Money in 2026 ...",
+                  "url": "https://au.trustpilot.com/review/aussie-online.casino",
+                  "breadcrumb": "https://au.trustpilot.com › ... › Gambling › Casino",
+                  "website_name": "Trustpilot",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Aussie Online Casino is an independent review and comparison project for Australian online casino real money players",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Aussie Online Casino"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "trustpilot.com",
+                  "relative_url": "/review/aussie-online.casino",
+                  "etv": 13079.103706968726,
+                  "estimated_paid_traffic_cost": 143870.140776656,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 127,
+                    "referring_main_domains": 127,
+                    "referring_pages": 137,
+                    "dofollow": 135,
+                    "backlinks": 137,
+                    "time_update": "2026-08-02 04:20:44 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 319,
+                    "main_domain_rank": 803
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 2,
+                  "rank_absolute": 2,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                  "domain": "www.acma.gov.au",
+                  "title": "Online gambling services",
+                  "url": "https://www.acma.gov.au/online-gambling-services",
+                  "breadcrumb": "https://www.acma.gov.au › online-gambling-services",
+                  "website_name": "ACMA",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "It's important to protect the community from illegal betting and gaming services provided online. Understand what is and isn't allowed and who can help",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "online"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "acma.gov.au",
+                  "relative_url": "/online-gambling-services",
+                  "etv": 3581.2718076967503,
+                  "estimated_paid_traffic_cost": 39393.98988466425,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 5,
+                    "is_new": true,
+                    "is_up": true,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1050,
+                    "referring_main_domains": 962,
+                    "referring_pages": 1828,
+                    "dofollow": 591,
+                    "backlinks": 1956,
+                    "time_update": "2026-08-02 04:16:29 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 417,
+                    "main_domain_rank": 547
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 3,
+                  "rank_absolute": 3,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                  "domain": "www.pogo.com",
+                  "title": "Free Online Casino Games No Download | Slots, Poker ...",
+                  "url": "https://www.pogo.com/free-online-games/casino",
+                  "breadcrumb": "https://www.pogo.com › free-online-games › casino",
+                  "website_name": "Pogo.com",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "You can play free online casino games without downloading right here on Pogo. Every game in Pogo's casino collection runs directly in your browser — no installs ... Read more",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "play free online casino games"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "pogo.com",
+                  "relative_url": "/free-online-games/casino",
+                  "etv": 1848.043772563442,
+                  "estimated_paid_traffic_cost": 20328.481498197863,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1270,
+                    "referring_main_domains": 1183,
+                    "referring_pages": 4656,
+                    "dofollow": 2850,
+                    "backlinks": 4718,
+                    "time_update": "2026-08-02 05:14:33 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 348,
+                    "main_domain_rank": 450
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 4,
+                  "rank_absolute": 4,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                  "domain": "www.gamblinginsider.com",
+                  "title": "Best Australian Online Casinos for Real Money in 2026",
+                  "url": "https://www.gamblinginsider.com/au/online-casinos",
+                  "breadcrumb": "https://www.gamblinginsider.com › Casino",
+                  "website_name": "Gambling Insider",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "7 days ago — Find the best Australia online casinos with more games, bigger bonuses, and faster payments. low-wagering bonuses, and a broad range of pokies.",
+                  "pre_snippet": "7 days ago",
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "best Australia online casinos"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "gamblinginsider.com",
+                  "relative_url": "/au/online-casinos",
+                  "etv": 946.7641290943216,
+                  "estimated_paid_traffic_cost": 10414.405420037538,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": 3,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": true
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 457,
+                    "referring_main_domains": 391,
+                    "referring_pages": 61344,
+                    "dofollow": 61174,
+                    "backlinks": 86273,
+                    "time_update": "2026-08-02 05:07:02 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 410,
+                    "main_domain_rank": 470
+                  }
+                },
+                {
+                  "se_type": "google",
+                  "type": "organic",
+                  "rank_group": 5,
+                  "rank_absolute": 6,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                  "domain": "www.arkadium.com",
+                  "title": "Free Casino Games Online: No Download & Play Now",
+                  "url": "https://www.arkadium.com/free-online-games/casino/",
+                  "breadcrumb": "https://www.arkadium.com › All Free Games",
+                  "website_name": "Arkadium",
+                  "is_image": false,
+                  "is_video": false,
+                  "is_featured_snippet": false,
+                  "is_malicious": false,
+                  "checks": null,
+                  "description": "Instantly play the best free online casino games - no downloads, installs, or traveling required! Play online for free at Arkadium today! ✓ Start winning!",
+                  "pre_snippet": null,
+                  "extended_snippet": null,
+                  "amp_version": false,
+                  "rating": null,
+                  "highlighted": [
+                    "Instantly play the best free online casino games"
+                  ],
+                  "links": null,
+                  "about_this_result": null,
+                  "main_domain": "arkadium.com",
+                  "relative_url": "/free-online-games/casino/",
+                  "etv": 537.9491241149761,
+                  "estimated_paid_traffic_cost": 5917.440365264738,
+                  "clickstream_etv": null,
+                  "rank_changes": {
+                    "previous_rank_absolute": null,
+                    "is_new": true,
+                    "is_up": false,
+                    "is_down": false
+                  },
+                  "backlinks_info": {
+                    "referring_domains": 1497,
+                    "referring_main_domains": 1401,
+                    "referring_pages": 5734,
+                    "dofollow": 1582,
+                    "backlinks": 5824,
+                    "time_update": "2026-08-02 04:39:10 +00:00"
+                  },
+                  "rank_info": {
+                    "page_rank": 348,
+                    "main_domain_rank": 617
+                  }
+                }
+              ],
+              "items_count_original_organics": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

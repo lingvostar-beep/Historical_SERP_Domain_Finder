@@ -1,0 +1,10 @@
+{
+  "_comment": "App treats this as failed query / API_ERROR coverage — not success",
+  "provider": "dataforseo_legacy",
+  "http_status_assumed": 200,
+  "top_status_code": 20000,
+  "task_status_code": 40501,
+  "task_status_message": "Invalid Field: 'date_from'.",
+  "cost_usd": "0",
+  "snapshots": []
+}

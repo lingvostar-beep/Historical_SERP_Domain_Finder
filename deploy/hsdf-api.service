@@ -1,0 +1,16 @@
+[Unit]
+Description=Historical SERP Domain Finder API (bootstrap)
+After=network.target docker.service
+Wants=docker.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/historical_serp_domain_finder
+EnvironmentFile=/opt/historical_serp_domain_finder/.env
+ExecStart=/opt/historical_serp_domain_finder/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8872
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,29 @@
+{
+  "bulk_domain_availability_response": [
+    {
+      "domain": "google.com",
+      "availability": "UNAVAILABLE",
+      "status": true
+    },
+    {
+      "domain": "hsdf-spike-1795088850.com",
+      "availability": "AVAILABLE",
+      "status": true
+    },
+    {
+      "domain": "this-tld-should-fail.invalidtld",
+      "availability": "UNKNOWN",
+      "status": false
+    },
+    {
+      "domain": "example.com.au",
+      "availability": "UNAVAILABLE",
+      "status": true
+    },
+    {
+      "domain": "example.com",
+      "availability": "UNAVAILABLE",
+      "status": true
+    }
+  ]
+}
